@@ -5,6 +5,7 @@
 header{
     color: white;
     text-align: center;
+    font-size: 35px;
 }
 
 img{
@@ -29,8 +30,14 @@ input{
 }
 button{
     margin-top: 5px;
-    border-radius: 20px;
+    border-radius: 16px;
+    padding: 10px;
     
+}
+button:hover{
+   
+    color: white;
+    background-color: rgb(23, 124, 128);
 }
 
 .drawline{
